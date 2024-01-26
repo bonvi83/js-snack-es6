@@ -53,7 +53,7 @@ console.log(teams);
 
 
 // Creare un nuovo array i cui elementi contengono nomi e falli subiti, recuperarli tramite il destructuring, e console.log
-
+// chiesto aiuto dal pubblico per vedere la luce in fondo al tunnel!
 
 const newArray = teams.map((team) => {
     const {name, foul} = team;
