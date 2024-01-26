@@ -93,4 +93,4 @@ let onlyNameId = nameHighGradesId.map((studente) => {
     return studente.name.toUpperCase();
 }); 
 
-console.log(onlyNameId):
+console.log(onlyNameId);
