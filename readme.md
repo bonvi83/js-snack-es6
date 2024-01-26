@@ -30,5 +30,7 @@ Usa l'array allegato alla traccia per completare i seguenti punti:
 - Creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti, recuperandoli con il destructuring, e stampiamo tutto in console.
 
 ### **Snack 5:**
+Dato un array di oggetti che rappresentano delle auto, chiedete all'utente con quante persone deve viaggiare e trovate la prima auto che soddisfa la richiesta.
 
 ### **Snack 6:**
+Avete a disposizione un elenco di frutti per fare una macedonia. Scegliete 2, 3 o 4 in modo casuale e calcolate il prezzo della macedonia.
